@@ -1,0 +1,101 @@
+Best (Design + tag + filter) (- typescrpt):
+https://github.com/kwaa/blog
+
+Comment: design: tag:
+https://github.com/zeikar/issueage
+
+Best: design:graphql (- tag, author)
+https://github.com/Uvacoder/sveltekit-starter-blog
+
+Best: (Post + search + tags + nice post structure) (minus: typescript)
+https://github.com/navneetsharmaui/sveltekit-blog
+Demo:https://sveltekit-blog-starter.vercel.app/
+
+Post+design + tags
+https://github.com/spences10/scottspence.com
+
+Author:tag:
+https://github.com/Philomathica/sveltekit-blog-app
+
+Design + Typescript:
+https://github.com/spences10/sveltekit-starter-blog
+
+Design
+https://github.com/spences10/sveltekit-graphcms-starter-blog
+
+Full Featured website:
+Tailwind + Search post + cat + tag 
+No Pagination
+https://github.com/mhatvan/markushatvan.com
+
+Blog post + tag
+https://github.com/pawelblaszczyk5/blog
+
+MDSveX, Tailwind CSS and DaisyUI: Nice
+https://github.com/spences10/sveltekit-mdsvex-starter-blog
+
+Pagination and nice design:
+https://github.com/apvarun/sapper-stunning-theme
+
+Pagination: (md)
+https://github.com/sharu725/hagura-sveltekit
+
+Pagination + External API
+https://github.com/acidlake/sveltekit-tailwindcss-external-api
+
+mdx:design
+https://github.com/22940dev/sveltekit-blog-template
+
+Multi language:
+https://github.com/dkzlv/dkzlv.com
+
+Cat:
+https://github.com/pararell/svelte-blog
+
+Author:
+https://github.com/ezcomenezgo/sveltekit-blog
+
+Author + tag:
+https://github.com/onyeepeace/svelte-blog
+Tag:
+https://github.com/ajboni/blog
+
+Good One:
+https://github.com/anuitex/svelte-blog-chuck-norris-jokes
+
+Pagination:
+https://github.com/pleasemarkdarkly/svelte-example-three
+https://github.com/pleasemarkdarkly/svelte-example-three
+
+sitemap:
+https://github.com/rodneylab/narcissus-blog
+
+SvelteKit, MDSveX, and Tailwind
+https://github.com/marydotdev/simple-sveltekit-starter
+
+Homepage effect:
+https://github.com/pararell/svelte-strapi-template
+
+C++ design:
+https://github.com/Coordinate-Cat/miNE
+
+blog based on wordpress.com
+https://github.com/1983shiv/wpcblog
+
+Best for website:
+https://github.com/anfelo/anfelo-web
+
+Ful featured site:
+https://github.com/o-theophilus/theophilus.website
+
+Nice blog listing+  search
+https://github.com/achimoraites/achimoraites.github.io
+
+Design:  Tag
+https://github.com/importantimport/urara
+
+Done:
+https://github.com/search?p=9&q=svelte+blog&type=Repositories
+
+
+https://uicookies.com/threejs-examples/
